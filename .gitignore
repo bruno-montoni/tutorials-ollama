@@ -1,0 +1,6 @@
+# Local data
+.DS_Store
+.DS_Store?
+
+# Virtual environment
+.venv/
